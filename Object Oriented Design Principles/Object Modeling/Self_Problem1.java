@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Problem4 {
+public class Self_Problem1 {
 
     static class Course {
         private String name;
